@@ -1,6 +1,5 @@
 # API Cadastro de Veículos
 
-==========
 API teste para realizar cadastro de veículos.
 
 ---
