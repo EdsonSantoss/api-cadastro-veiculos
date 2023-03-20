@@ -1,0 +1,2 @@
+PORT=4000
+MONGODB_URL=mongodb+srv://root:123@vehicles.rnh6wzd.mongodb.net/?retryWrites=true&w=majority
